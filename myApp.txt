@@ -1,0 +1,8 @@
+props ka matlab : properties like agar app components ke andar koi bhi changes karna
+chahte ho to aapko props ke through karna hoga 
+
+like : Incase agar app navbar component ke andar kuch bhi change karna chahte ho
+to aapko props pass karna hoga link props.title, props.about etc 
+
+
+props ko pass karte ho component me but state ek component ko belong karti hai 
